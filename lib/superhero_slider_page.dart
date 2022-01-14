@@ -64,7 +64,7 @@ class _SuperheroSliderPageState extends State<SuperheroSliderPage> {
       // App Bar
       //---------------
       appBar: AppBar(
-        title: const Text("РАССКАЗЫ"),
+        title: const Text("МИР КОЛИЗЕЯ"),
         elevation: 0,
         centerTitle: true,
       ),
